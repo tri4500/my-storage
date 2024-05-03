@@ -1,10 +1,10 @@
 {
-  "image": "https://raw.githubusercontent.com/tritri0405/ton-client/main/app-logo.png",
+  "image": "https://raw.githubusercontent.com/tri4500/my-storage/main/images/tris-jetton-logo.jpg",
   "name": "TRIS",
   "symbol": "TRIS",
   "description": "Tris First Jetton",
   "social_links": [
-    "https://github.com/tritri0405/ton-client",
+    "https://github.com/tri4500/my-storage",
     "https://t.me/memetd_bot"
   ],
   "marketplace": "tris.jetton.first"
